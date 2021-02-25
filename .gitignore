@@ -1,0 +1,14 @@
+Игнорируются 
+папка 
+.terraform
+файлы
+*.tfstate
+*.tfvars
+override.tf
+override.tf.json
+*_overide.tf
+*_overide.tf.json
+.terraformrc
+terraform.rc
+логи
+
